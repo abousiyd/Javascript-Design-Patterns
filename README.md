@@ -84,7 +84,7 @@ Object constructors are used to create specific types of objects - both preparin
             }
         })
 
-        person.name = 'Arcoders'
+        person.name = 'Abdou'
 
         console.log(person.name)
 
